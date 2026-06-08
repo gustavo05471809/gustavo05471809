@@ -47,8 +47,4 @@
 | 📰 **Automated Newsletter & Podcast System** | AI pipeline that finds, scores, and publishes real estate news as both newsletter and podcast - fully automated. | OpenAI, Make, Mailchimp, ElevenLabs |
 | 🏗️ **Modern Data Warehouse** | Medallion architecture (Bronze/Silver/Gold) consolidating ERP and CRM data into a star schema for BI reporting. | SQL Server, T-SQL, Git |
 
-### 💬 Let's work together
-
-If you're building a SaaS product, MVP, or complex web platform, I can help design the architecture and deliver a production-ready system from start to deployment.
-
 📍 Salta, Argentina &nbsp;|&nbsp; 🕐 UTC-3
