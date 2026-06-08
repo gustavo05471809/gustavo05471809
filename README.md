@@ -1,19 +1,3 @@
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+%26+AI+Engineer;SaaS+Platform+Builder;Python+%2B+React+%2B+FastAPI;Idea+%E2%86%92+MVP+%E2%86%92+Production)
-
-<img src="https://komarev.com/ghpvc/?username=gustavo05471809&style=for-the-badge&color=00b4d8" alt="Profile Views"/>
-
-</div>
-
----
-
-### 👋 Hey, I'm Gustavo
-
-I build SaaS platforms, AI-powered backends, and full stack web applications. 15+ years taking projects from idea to production — clean architecture, reliable APIs, scalable infrastructure.
-
----
-
 ### 🛠️ Tech Stack
 
 **Backend**
@@ -60,7 +44,7 @@ I build SaaS platforms, AI-powered backends, and full stack web applications. 15
 | 🏢 **Private Real Estate Capital Platform** | AI-powered deal matching connecting investors with real estate opportunities. Real-time analytics dashboards and secure financial data pipelines. | FastAPI, PostgreSQL, Redis, React |
 | 🎯 **LinkedIn Lead Gen SaaS** | Tracks engagement signals on LinkedIn profiles and ranks prospects by intent. Real-time notifications for sales outreach. | Python, AWS, MongoDB, OAuth 2.0 |
 | 🌍 **PFAS Environmental Pipeline** | End-to-end data analysis pipeline for contamination modeling across geographic regions using statistical models. | Python, GLMM, Pandas |
-| 📰 **Automated Newsletter & Podcast System** | AI pipeline that finds, scores, and publishes real estate news as both newsletter and podcast — fully automated. | OpenAI, Make, Mailchimp, ElevenLabs |
+| 📰 **Automated Newsletter & Podcast System** | AI pipeline that finds, scores, and publishes real estate news as both newsletter and podcast - fully automated. | OpenAI, Make, Mailchimp, ElevenLabs |
 | 🏗️ **Modern Data Warehouse** | Medallion architecture (Bronze/Silver/Gold) consolidating ERP and CRM data into a star schema for BI reporting. | SQL Server, T-SQL, Git |
 
 ### 💬 Let's work together
