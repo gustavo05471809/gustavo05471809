@@ -16,13 +16,6 @@ I build SaaS platforms, AI-powered backends, and full stack web applications. 15
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 **Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,6 +24,13 @@ I build SaaS platforms, AI-powered backends, and full stack web applications. 15
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Data & Storage**
 
@@ -62,31 +62,6 @@ I build SaaS platforms, AI-powered backends, and full stack web applications. 15
 | 🌍 **PFAS Environmental Pipeline** | End-to-end data analysis pipeline for contamination modeling across geographic regions using statistical models. | Python, GLMM, Pandas |
 | 📰 **Automated Newsletter & Podcast System** | AI pipeline that finds, scores, and publishes real estate news as both newsletter and podcast — fully automated. | OpenAI, Make, Mailchimp, ElevenLabs |
 | 🏗️ **Modern Data Warehouse** | Medallion architecture (Bronze/Silver/Gold) consolidating ERP and CRM data into a star schema for BI reporting. | SQL Server, T-SQL, Git |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo05471809&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo05471809&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=gustavo05471809&theme=tokyonight&hide_border=false)
-
-</div>
-
----
-
-### 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavo05471809&theme=tokyo-night)
-
----
 
 ### 💬 Let's work together
 
